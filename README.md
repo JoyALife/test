@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+# clone project
+git clone ....
+
 # install dependencies
 npm install
 
